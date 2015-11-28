@@ -1,0 +1,4 @@
+{
+  "secret": "some secret", // this will be validated on a request post
+  "dir": "/opt/images"
+}
